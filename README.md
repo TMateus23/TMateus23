@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TMateus23
+- 👋 Hi, I’m Tomás Mateus
 - 👀 I´m computer engineering student in Universidade de Évora (second year)
 - 📫 You can contact me via email: tomas.g.mateus@gmail.com
 - I am working with several languages ​​such as C, Java, Java Script
