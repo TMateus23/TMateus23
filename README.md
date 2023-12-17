@@ -1,1 +1,3 @@
 - 👋 Hi, I’m Tomás Mateus
+
+LANGUAGES I HAVE STUDIED, FOR NOW:
