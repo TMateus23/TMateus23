@@ -21,7 +21,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://www.google.com/search?q=linguagem+C+logo+&tbm=isch&ved=2ahUKEwi905PZy6aEAxWrQaQEHTb3BPYQ2-cCegQIABAA&oq=linguagem+C+logo+&gs_lp=EgNpbWciEWxpbmd1YWdlbSBDIGxvZ28gMgQQABgeMgYQABgIGB5I8jdQwQdY-jZwBXgAkAEAmAGeAaABsRKqAQQxNC45uAEDyAEA-AEBigILZ3dzLXdpei1pbWfCAgQQIxgnwgIFEAAYgATCAgoQABiABBiKBRhDwgINEAAYgAQYigUYQxixA8ICCBAAGIAEGLEDwgIGEAAYBRgewgIJEAAYgAQYGBgKwgIHEAAYgAQYGIgGAQ&sclient=img&ei=43jKZf3VPKuDkdUPtu6TsA8&bih=953&biw=1920#imgrc=HboI6Gm_AcR8KM />
+  <img src="![25699522](https://github.com/TMateus23/TMateus23/assets/121836579/c990c87a-5c68-4e00-9ab2-0107885c9353)" />
   <img width="12" />
 </div>
 
