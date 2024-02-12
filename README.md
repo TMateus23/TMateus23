@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java, <br>🎯 Goals: be a top quality web developer<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Java <br>🎯 Goals: be a top quality web developer<br>
 
 ###
 
