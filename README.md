@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Languages I have worked with before:</h2>
+<h2 align="left">Languages and frameworks I have worked with before:</h2>
 
 ###
 
