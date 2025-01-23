@@ -40,5 +40,5 @@
 ###
 
 <p align="left">
-  📄 CV: <a href="https://www.canva.com/design/DAGceqHTZZE/-agFoNVrPZFBOzqsfMJyMg/view?utm_content=DAGceqHTZZE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75e52db4d6" target="_blank"></a>
+  📄 CV: <a href="CV.pdf" target="_blank"></a>
 </p>
