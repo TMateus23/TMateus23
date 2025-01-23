@@ -38,3 +38,7 @@
 </div>
 
 ###
+
+<p align="left">
+  📄 Meu CV: <a href="file:///C:/Users/Tom%C3%A1s%20Mateus/Downloads/CV.pdf.pdf" target="_blank">Clique aqui para visualizar</a>
+</p>
