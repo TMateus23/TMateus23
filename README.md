@@ -40,5 +40,5 @@
 ###
 
 <p align="left">
-  📄 Meu CV: <a href="file:///C:/Users/Tom%C3%A1s%20Mateus/Downloads/CV.pdf.pdf" target="_blank">Clique aqui para visualizar</a>
+  📄 CV: <a href="https://www.canva.com/design/DAGceqHTZZE/-agFoNVrPZFBOzqsfMJyMg/view?utm_content=DAGceqHTZZE&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h75e52db4d6" target="_blank"></a>
 </p>
