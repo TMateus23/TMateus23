@@ -40,5 +40,5 @@
 ###
 
 <p align="left">
-  📄 CV: <a href="https://drive.google.com/drive/my-drive" target="_blank"></a>
+  📄 CV: <a href="https://drive.google.com/drive/my-drive" target="_blank">Here</a>
 </p>
