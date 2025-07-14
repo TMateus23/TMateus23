@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I have developed and launched my personal website, which you can visit at https://tmateus23.github.io/.<br>🎯 Goals: be a top quality web developer<br>
+<p align="left">✨ Creating bugs since 2021<br>📚 I have developed and launched my personal website, which you can visit at https://tmateus23.github.io/.<br>🎯 My goal is to become a top-tier web developer, with a strong focus and passion for front-end development<br>
 
 ###
 
