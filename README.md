@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tomás Mateus and I hold a Bachelor's degree in Computer Science and Engineering from the University of Évora, completed between 2022 and 2025, with a final grade average of 15.15 out of 20.
+<p align="left">My name is Tomás Mateus and I hold a Bachelor's degree in Computer Engineering from the University of Évora, completed between 2022 and 2025, with a final grade average of 15.15 out of 20.
 <br>
 <br>
 Currently in the first year of a Master's degree in Informatics and Management at ISCTE – University Institute of Lisbon, in a part-time, post-labor schedule.
