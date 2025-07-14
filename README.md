@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Tomás Mateus and I'm a computer Science and engineering student, from Universidade de Évora</p>
+<p align="left">"My name is Tomás Mateus and I hold a Bachelor's degree in Computer Science and Engineering from the University of Évora."</p>
 
 ###
 
