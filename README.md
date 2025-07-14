@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">"My name is Tomás Mateus and I hold a Bachelor's degree in Computer Science and Engineering from the University of Évora."</p>
+<p align="left">"My name is Tomás Mateus and I hold a Bachelor's degree in Computer Science and Engineering from the University of Évora, completed between 2022 and 2025, with a final grade average of 15.15 out of 20."</p>
 
 ###
 
