@@ -43,6 +43,3 @@ Currently in the first year of a Master's degree in Informatics and Management a
 
 ###
 
-<p align="left">
-  📄 CV: <a href="https://drive.google.com/file/d/1qi5nRcsk0x7rlEmk0TmT3_21MvAQhmRA/view?usp=sharing" target="_blank">Here</a>
-</p>
